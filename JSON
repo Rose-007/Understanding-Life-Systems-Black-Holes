@@ -1,0 +1,5 @@
+{
+  "timestamp": "T_now",
+  "system_state": {...},
+  "hash_signature": "abc123"
+}
